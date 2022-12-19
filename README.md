@@ -5,3 +5,12 @@ This Graphical User Interface provides automated proximal convoluted tubule (PCT
 2- No need to launch standalone python-based apps (e.g. Spider, Anaconda, ...)
 3- Can be linked to MATLAB if data collection was done in MATLAB. 
 4- Real-time image processing by intracting with user to set optimum values. 
+## Required libraries and Modules:
+1- Python>=3.8
+2- PyQt5
+3- matplotlib
+4- Python openCV
+5- Sklearn and Scikitimage
+6- Tensorflow >= 2.4
+7- Patchify
+8- Pillow
