@@ -7,10 +7,17 @@ This Graphical User Interface provides automated proximal convoluted tubule (PCT
 4- Real-time image processing by intracting with user to set optimum values. 
 ## Required libraries and Modules:
 1- Python>=3.8
+
 2- PyQt5
+
 3- matplotlib
+
 4- Python openCV
+
 5- Sklearn and Scikitimage
+
 6- Tensorflow >= 2.4
+
 7- Patchify
+
 8- Pillow
