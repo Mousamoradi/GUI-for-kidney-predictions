@@ -1,7 +1,7 @@
 # GUI-for-kidney-predictions
 This Graphical User Interface provides automated proximal convoluted tubule (PCT) lumen segmentation and make predictions for density and diameter of the detected PCTs.
 
-![image](https://user-images.githubusercontent.com/78983558/208538781-799bef2b-f7a2-4416-86ea-af9807484c8b.png)
+![image](https://user-images.githubusercontent.com/78983558/210263502-74572ee1-2970-45b1-92bb-d77edd9793f4.png)
 
 ## Advantages of GUI-based kidney predictions:
 1- Pretrained model= Residual Self-Attention UNET.
