@@ -30,3 +30,6 @@ This Graphical User Interface provides automated proximal convoluted tubule (PCT
 7- Patchify
 
 8- Pillow
+
+[![DOI](https://zenodo.org/badge/580168390.svg)](https://zenodo.org/badge/latestdoi/580168390)
+
